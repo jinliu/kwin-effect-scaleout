@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Scale Up
+Icon=preferences-system-windows-effect-scaleup
+Comment=Make windows smoothly scale up/down on maximize/restore
+
+Type=Service
+X-KDE-ServiceTypes=KWin/Effect
+X-KDE-PluginInfo-Author=Jin Liu
+X-KDE-PluginInfo-Email=m.liu.jin@gmail.com
+X-KDE-PluginInfo-Name=kwin4_effect_scaleup
+X-KDE-PluginInfo-Version=0.1.0
+X-KDE-PluginInfo-Category=Appearance
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=false
+X-KDE-Library=kwin4_effect_scaleup
+X-KDE-Ordering=50
